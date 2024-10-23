@@ -1,3 +1,7 @@
+![Project Screenshot](src/Components/Assets/Screenshot 2024-10-22 222754.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
