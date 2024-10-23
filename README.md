@@ -1,5 +1,4 @@
-![Project Screenshot](src/Components/Assets/Screenshot 2024-10-22 222754.png)
-
+https://github.com/AkshayChikane123/ai-image-generator/blob/master/src/Components/Assets/Screenshot%202024-10-22%20222754.png
 
 
 # Getting Started with Create React App
